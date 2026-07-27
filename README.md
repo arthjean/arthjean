@@ -20,12 +20,12 @@ I'm a creator and software engineer based in France. I build tools for developer
 
 ## Active Projects
 
-<img src="assets/icons/asterisk.svg" alt="" width="14" height="14"> **[Paneflow](https://paneflow.dev)** · Cross-platform GPUI app for parallel coding agents.<br>
-<img src="assets/icons/asterisk.svg" alt="" width="14" height="14"> **[Rust Doctor](https://rust-doctor.vercel.app)** · Your agent writes bad Rust. This catches it.<br>
-<img src="assets/icons/asterisk.svg" alt="" width="14" height="14"> **[Pyxis](https://github.com/arthjean/pyxis)** · Codex CLI is the best agent harness, but it’s locked to OpenAI. Pyxis won’t be.<br>
-<img src="assets/icons/asterisk.svg" alt="" width="14" height="14"> **[Distill](https://distill-mcp.com)** · Your agent wastes context. Distill fixes it.<br>
-<img src="assets/icons/asterisk.svg" alt="" width="14" height="14"> **[Temper](https://github.com/arthjean/temper)** · Your Rust compiler doesn’t see your workload. Temper does.<br>
-<img src="assets/icons/asterisk.svg" alt="" width="14" height="14"> **[Astreon](https://github.com/arthjean/astreon)** · Next.js for native Rust apps. Build, ship, and have fun.
+<img src="assets/icons/asterisk.svg" alt="" width="14" height="14" align="middle"> **[Paneflow](https://paneflow.dev)** · Cross-platform GPUI app for parallel coding agents.<br>
+<img src="assets/icons/asterisk.svg" alt="" width="14" height="14" align="middle"> **[Rust Doctor](https://rust-doctor.vercel.app)** · Your agent writes bad Rust. This catches it.<br>
+<img src="assets/icons/asterisk.svg" alt="" width="14" height="14" align="middle"> **[Pyxis](https://github.com/arthjean/pyxis)** · Codex CLI is the best agent harness, but it’s locked to OpenAI. Pyxis won’t be.<br>
+<img src="assets/icons/asterisk.svg" alt="" width="14" height="14" align="middle"> **[Distill](https://distill-mcp.com)** · Your agent wastes context. Distill fixes it.<br>
+<img src="assets/icons/asterisk.svg" alt="" width="14" height="14" align="middle"> **[Temper](https://github.com/arthjean/temper)** · Your Rust compiler doesn’t see your workload. Temper does.<br>
+<img src="assets/icons/asterisk.svg" alt="" width="14" height="14" align="middle"> **[Astreon](https://github.com/arthjean/astreon)** · Next.js for native Rust apps. Build, ship, and have fun.
 
 ---
 
