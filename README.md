@@ -20,10 +20,10 @@ I'm a creator and software engineer based in France. I build tools for developer
 
 ## Active Projects
 
-- **[Paneflow](https://paneflow.dev)** · Cross-platform GPUI app for parallel coding agents.
-- **[Rust Doctor](https://rust-doctor.vercel.app)** · Your agent writes bad Rust. This catches it.
+- **[Paneflow](https://github.com/arthjean/paneflow)** · Cross-platform GPUI app for parallel coding agents.
+- **[Rust Doctor](https://github.com/arthjean/rust-doctor)** · Your agent writes bad Rust. This catches it.
 - **[Pyxis](https://github.com/arthjean/pyxis)** · Codex CLI is the best agent harness, but it’s locked to OpenAI. Pyxis won’t be.
-- **[Distill](https://distill-mcp.com)** · Your agent wastes context. Distill fixes it.
+- **[Distill](https://github.com/arthjean/distill)** · Your agent wastes context. Distill fixes it.
 - **[Temper](https://github.com/arthjean/temper)** · Your Rust compiler doesn’t see your workload. Temper does.
 - **[Astreon](https://github.com/arthjean/astreon)** · Next.js for native Rust apps. Build, ship, and have fun.
 
