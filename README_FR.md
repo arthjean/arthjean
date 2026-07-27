@@ -14,7 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007AFF&width=500&lines=Je+ne+code+pas%2C+j'orchestre.;Je+b%C3%A2tis+des+infrastructures.;Ship+beats+perfect." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007AFF&width=650&lines=Les+agents+ont+%C3%A9volu%C3%A9.+Ta+stack+n%E2%80%99a+pas+suivi.;Je+construis+les+outils+locaux+pour+l%E2%80%99%C3%A8re+de+l%E2%80%99IA.;Outils+ouverts.+Code+propre.+Plus+puissant.+Plus+fun." alt="Typing SVG" /></a>
 
 Je suis créateur et software engineer basé en France. Je construis des outils pour les développeurs, les software engineers et les AI engineers, avec une conviction simple: la manière dont nous écrivons du logiciel change, et nos environnements de travail doivent changer avec elle.
 
