@@ -16,7 +16,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007AFF&width=500&lines=I+don%27t+code%2C+I+orchestrate.;I+build+infrastructure+that+lasts.;Ship+beats+perfect." alt="Typing SVG" /></a>
 
-I'm a creator and software engineer based in France. I build tools for developers, software engineers, and AI engineers, with a simple conviction: the way we write software is changing, and our working environments need to change with it.
+I'm a creator and software engineer based in France. I build tools for developers, software engineers, AI engineers, and more, with a simple conviction: the way we write software is changing, and our working environments need to change with it.
 
 ## Active Projects
 
