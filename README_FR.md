@@ -21,11 +21,11 @@ Je suis créateur et software engineer basé en France. Je construis des outils 
 ## Projets en cours
 
 - **[Paneflow](https://paneflow.dev)** · Cross-platform GPUI app for parallel coding agents.
-- **[Rust Doctor](https://rust-doctor.vercel.app)** · The one-command health check for your Rust project. rust-doctor scans for security, performance, correctness, architecture, and dependency issues, then folds everything into a single 0–100 score with diagnostics you can act on.
-- **[Pyxis](https://github.com/arthjean/pyxis)** · Multi-provider Rust CLI for fast agentic coding workflows, designed to connect natively with Paneflow.
-- **[Distill](https://distill-mcp.com)** · Distill is an open-source MCP server that compresses context at the source.
-- **[Temper](https://github.com/arthjean/temper)** · Experimental optimization toolchain for Rust that measures representative workloads and keeps only reproducible speedups.
-- **[Astreon](https://github.com/arthjean/astreon)** · Rust framework for building, developing, and distributing native desktop applications through a simple, integrated developer experience.
+- **[Rust Doctor](https://rust-doctor.vercel.app)** · Your agent writes bad Rust. This catches it.
+- **[Pyxis](https://github.com/arthjean/pyxis)** · Codex CLI is the best agent harness, but it’s locked to OpenAI. Pyxis won’t be.
+- **[Distill](https://distill-mcp.com)** · Your agent wastes context. Distill fixes it.
+- **[Temper](https://github.com/arthjean/temper)** · Your Rust compiler doesn’t see your workload. Temper does.
+- **[Astreon](https://github.com/arthjean/astreon)** · Next.js for native Rust apps. Build, ship, and have fun.
 
 ---
 
