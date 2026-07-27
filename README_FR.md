@@ -21,10 +21,11 @@ Je suis créateur et software engineer basé en France. Je construis des outils 
 ## Projets en cours
 
 - **[Paneflow](https://paneflow.dev)** · Cross-platform GPUI app for parallel coding agents.
-- **[Hera](https://github.com/arthjean/hera-terminal)** · Modern Rust terminal engine for long CLI sessions, huge scrollbacks, deterministic replay, and agentic workflows.
+- **[Rust Doctor](https://rust-doctor.vercel.app)** · The one-command health check for your Rust project. rust-doctor scans for security, performance, correctness, architecture, and dependency issues, then folds everything into a single 0–100 score with diagnostics you can act on.
 - **[Pyxis](https://github.com/arthjean/pyxis)** · Multi-provider Rust CLI for fast agentic coding workflows, designed to connect natively with Paneflow.
 - **[Distill](https://distill-mcp.com)** · Distill is an open-source MCP server that compresses context at the source.
-- **[Rust Doctor](https://rust-doctor.vercel.app)** · The one-command health check for your Rust project. rust-doctor scans for security, performance, correctness, architecture, and dependency issues, then folds everything into a single 0–100 score with diagnostics you can act on.
+- **[Temper](https://github.com/arthjean/temper)** · Experimental optimization toolchain for Rust that measures representative workloads and keeps only reproducible speedups.
+- **[Astreon](https://github.com/arthjean/astreon)** · Rust framework for building, developing, and distributing native desktop applications through a simple, integrated developer experience.
 
 ---
 
