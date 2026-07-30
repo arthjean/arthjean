@@ -27,8 +27,6 @@ Je suis créateur et software engineer basé en France. Je construis des outils 
 - **[Zed](https://github.com/zed-industries/zed)** · High-performance multiplayer code editor, written in Rust on GPUI.
 - **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** · Minimal CLI coding agent by Mistral.
 
----
-
 ### Outils du quotidien
 
 ![Paneflow](assets/badges/paneflow.svg)
