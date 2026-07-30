@@ -2,12 +2,12 @@
 
 # Arthur Jean
 
-![Rust](https://img.shields.io/badge/-Rust-CE412B?style=flat-square&logo=rust&logoColor=white)
-![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
-![GPUI](https://img.shields.io/badge/-GPUI-111111?style=flat-square&logo=zedindustries&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-4B5563?style=flat-square&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/-Zig-4B5563?style=flat-square&logo=zig&logoColor=white)
+![GPUI](https://img.shields.io/badge/-GPUI-4B5563?style=flat-square&logo=zedindustries&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-4B5563?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-4B5563?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-4B5563?style=flat-square&logo=python&logoColor=white)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=007AFF&width=650&lines=Agents+got+smarter.+Your+dev+stack+didn%E2%80%99t.;I+build+the+local+tools+the+AI+era+needs.;Open+tools.+Clean+code.+More+power.+More+fun." alt="Typing SVG" /></a>
 
