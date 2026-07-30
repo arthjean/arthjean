@@ -34,7 +34,3 @@ I'm a creator and software engineer based in France. I build tools for developer
 ![Zed](https://img.shields.io/badge/-Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Bun](assets/badges/bun.svg)
-
-![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
