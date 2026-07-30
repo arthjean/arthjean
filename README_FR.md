@@ -3,13 +3,8 @@
 # Arthur Jean
 
 ![Rust](https://img.shields.io/badge/-Rust-CE412B?style=flat-square&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
 ![GPUI](https://img.shields.io/badge/-GPUI-111111?style=flat-square&logo=zedindustries&logoColor=white)
-![Tokio](https://img.shields.io/badge/-Tokio-000000?style=flat-square&logo=tokio&logoColor=white)
-![Ratatui](https://img.shields.io/badge/-Ratatui-111111?style=flat-square)
-![Alacritty](https://img.shields.io/badge/-Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
-![VTE](https://img.shields.io/badge/-VTE-4B5563?style=flat-square)
-![MCP](https://img.shields.io/badge/-MCP-FFFFFF?style=flat-square&logo=modelcontextprotocol&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
