@@ -22,6 +22,11 @@ I'm a creator and software engineer based in France. I build tools for developer
 - **[Temper](https://github.com/arthjean/temper)** · Your Rust compiler doesn’t see your workload. Temper does.
 - **[Astreon](https://github.com/arthjean/astreon)** · Next.js for native Rust apps. Build, ship, and have fun.
 
+## Contributions
+
+- **[Zed](https://github.com/zed-industries/zed)** · High-performance multiplayer code editor, written in Rust on GPUI.
+- **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** · Minimal CLI coding agent by Mistral.
+
 ---
 
 ### Daily tools
