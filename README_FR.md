@@ -17,9 +17,9 @@ Je suis créateur et software engineer basé en France. Je construis des outils 
 
 - **[Paneflow](https://github.com/arthjean/paneflow)** · Cross-platform GPUI app for parallel coding agents.
 - **[Rust Doctor](https://github.com/arthjean/rust-doctor)** · Your agent writes bad Rust. This catches it.
+- **[Mistral Vibe RS](https://github.com/arthjean/mistral-vibe-rs)** · Mistral’s coding agent, rebuilt from scratch in Rust.
 - **[Pyxis](https://github.com/arthjean/pyxis)** · Codex CLI is the best agent harness, but it’s locked to OpenAI. Pyxis won’t be.
 - **[Distill](https://github.com/arthjean/distill)** · Your agent wastes context. Distill fixes it.
-- **[Mistral Vibe RS](https://github.com/arthjean/mistral-vibe-rs)** · Mistral’s coding agent, rebuilt from scratch in Rust.
 
 ## Contributions
 
