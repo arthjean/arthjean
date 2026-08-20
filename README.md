@@ -24,6 +24,7 @@ I'm a creator and software engineer based in France. I build tools for developer
 
 ## Contributions
 
+- **[fx](https://github.com/vercel-labs/fx)** · Tiny, embeddable, native coding agent written in Zig.
 - **[Zed](https://github.com/zed-industries/zed)** · High-performance multiplayer code editor, written in Rust on GPUI.
 - **[Mistral Vibe](https://github.com/mistralai/mistral-vibe)** · Minimal CLI coding agent by Mistral.
 
